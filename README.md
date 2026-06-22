@@ -169,7 +169,8 @@ npm run ci            # Pipeline completo (lint + build + test)
 
 ## 📄 Licencia
 
-Este proyecto es privado. Todos los derechos reservados.
+The source code of Vortex is proprietary and remains private.
+This repository serves as a public showcase of the product architecture, features and development approach.
 
 ---
 
