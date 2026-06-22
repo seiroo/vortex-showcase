@@ -1,8 +1,11 @@
+![Vortex Showcase](img.png)
+
 # 🌀 Vortex
 
 **Gestión inteligente de issues de GitHub con tableros Kanban y automatización impulsada por IA.**
 
 Vortex es una aplicación web full-stack que transforma la gestión de proyectos en GitHub en una experiencia visual, colaborativa y automatizada. Conecta tus repositorios, organiza issues en columnas personalizables, y deja que la IA te ayude a generar, priorizar y dar seguimiento a las tareas.
+
 
 ---
 
