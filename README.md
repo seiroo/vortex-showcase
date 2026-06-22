@@ -1,4 +1,5 @@
-![Vortex Showcase](img.png)
+<img width="1983" height="793" alt="img" src="https://github.com/user-attachments/assets/48b16cdc-4419-4117-a30b-d7c7680c7943" />
+
 
 # 🌀 Vortex
 
