@@ -1,7 +1,7 @@
 <img width="1983" height="793" alt="img" src="https://github.com/user-attachments/assets/48b16cdc-4419-4117-a30b-d7c7680c7943" />
 
 
-# 🌀 Vortex
+#  Vortex
 
 **Gestión inteligente de issues de GitHub con tableros Kanban y automatización impulsada por IA.**
 
@@ -10,7 +10,7 @@ Vortex es una aplicación web full-stack que transforma la gestión de proyectos
 
 ---
 
-## 🎯 ¿Qué hace Vortex?
+##  ¿Qué hace Vortex?
 
 - **Tableros Kanban en tiempo real** — Arrastra y suelta issues entre columnas, con actualizaciones instantáneas vía WebSockets.
 - **Integración profunda con GitHub** — Sincronización bidireccional: los cambios en Vortex se reflejan en GitHub y viceversa.
@@ -23,7 +23,7 @@ Vortex es una aplicación web full-stack que transforma la gestión de proyectos
 
 ---
 
-## 🛠 Stack Tecnológico
+##  Stack Tecnológico
 
 | Capa | Tecnología |
 |------|-----------|
@@ -51,7 +51,7 @@ Vortex es una aplicación web full-stack que transforma la gestión de proyectos
 
 ---
 
-## 🏗 Arquitectura
+##  Arquitectura
 
 ```
 ┌──────────┐      ┌──────────────────┐      ┌─────────────┐
@@ -79,7 +79,7 @@ Vortex es una aplicación web full-stack que transforma la gestión de proyectos
 
 ---
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 El proyecto sigue una arquitectura modular basada en el App Router de Next.js, organizada por dominio y responsabilidad:
 
@@ -99,9 +99,9 @@ El proyecto sigue una arquitectura modular basada en el App Router de Next.js, o
 
 ---
 
-## 🚀 Funcionalidades destacadas
+##  Funcionalidades destacadas
 
-### 📋 Tablero Kanban
+###  Tablero Kanban
 
 - Columnas personalizables con estados configurables
 - Drag & drop entre columnas con indicadores visuales
@@ -109,32 +109,32 @@ El proyecto sigue una arquitectura modular basada en el App Router de Next.js, o
 - Soporte para teclado (navegación con flechas, atajos)
 - Vista de detalle con comentarios, asignación y etiquetas
 
-### 🤖 IA Generativa
+###  IA Generativa
 
 - Genera múltiples issues a partir de una descripción en lenguaje natural
 - Plantillas inteligentes basadas en el contexto del proyecto
 - Flujo guiado: seleccionas repositorio, escribes la idea, la IA propone los issues
 
-### 🔐 Autenticación
+###  Autenticación
 
 - Login con GitHub OAuth a través de Supabase
 - Sesiones persistentes con refresh automático
 - Sincronización de permisos con el backend
 
-### 👥 Colaboración
+###  Colaboración
 
 - Asignación de issues a miembros del equipo
 - Sistema de etiquetas con colores personalizables
 - Comentarios con edición y eliminación
 - Indicadores de seguimiento (watch/unwatch)
 
-### 🔍 Búsqueda y filtros
+###  Búsqueda y filtros
 
 - Filtrado por texto, etiquetas, responsables
 - Búsqueda con debounce para rendimiento
 - Filtros persistentes en la sesión
 
-### 📱 Experiencia móvil
+###  Experiencia móvil
 
 - Navegación inferior con accesos rápidos
 - Menús desplegables optimizados para táctil
@@ -142,7 +142,7 @@ El proyecto sigue una arquitectura modular basada en el App Router de Next.js, o
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 El proyecto cuenta con una suite de tests completa:
 
@@ -160,7 +160,7 @@ npm run ci            # Pipeline completo (lint + build + test)
 
 ---
 
-## 🔒 Seguridad
+##  Seguridad
 
 - **Content Security Policy (CSP)** — Headers restrictivos configurados en `next.config.ts`
 - **X-Content-Type-Options**, **X-Frame-Options**, **X-XSS-Protection** — Headers de seguridad activos
@@ -171,7 +171,7 @@ npm run ci            # Pipeline completo (lint + build + test)
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 The source code of Vortex is proprietary and remains private.
 This repository serves as a public showcase of the product architecture, features and development approach.
